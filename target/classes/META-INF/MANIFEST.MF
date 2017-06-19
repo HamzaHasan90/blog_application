@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Blog Application
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: hamza
+Built-By: Hamza
 Implementation-Vendor-Id: blogapplication
-Build-Jdk: 1.8.0_131
+Build-Jdk: 1.8.0_112
 Implementation-URL: http://projects.spring.io/spring-boot/blogapplicat
  ion/
 Created-By: Maven Integration for Eclipse
